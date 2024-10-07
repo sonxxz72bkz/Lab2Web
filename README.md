@@ -15,15 +15,8 @@ penjelasannya!
 elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
 penjelasan dan contohnya!
 
-<head>
-  <style>
-    p { color: blue; } /* CSS internal */
-  </style>
-  <link rel="stylesheet" href="style.css"> /* CSS eksternal */
-</head>
-<body>
-  <p style="color: red;">This is a paragraph.</p> /* CSS inline */
-</body>
+![Cuplikan layar 2024-10-08 014021](https://github.com/user-attachments/assets/7f62218e-82a1-4eb7-82b5-f2bbd4db2345)
+
 
 Jika ada CSS internal, eksternal, dan inline pada elemen yang sama, aturan yang akan digunakan oleh browser adalah aturan inline CSS, karena inline CSS memiliki prioritas tertinggi.
 
